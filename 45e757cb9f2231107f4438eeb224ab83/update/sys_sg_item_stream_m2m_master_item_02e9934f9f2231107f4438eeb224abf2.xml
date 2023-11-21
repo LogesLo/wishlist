@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Wish Item Item Stream">0ae9934f9f2231107f4438eeb224abf0</item_stream>
+        <master_item display_value="Wish Item master_item">86e9934f9f2231107f4438eeb224abf1</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 14:27:20</sys_created_on>
+        <sys_id>02e9934f9f2231107f4438eeb224abf2</sys_id>
+        <sys_name/>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">45e757cb9f2231107f4438eeb224ab83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">45e757cb9f2231107f4438eeb224ab83</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_02e9934f9f2231107f4438eeb224abf2</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

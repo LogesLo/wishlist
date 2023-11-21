@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>42e9934f9f2231107f4438eeb224abee</applets>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>false</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles>x_snc_wishlist.user</required_roles>
+        <row_count/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 14:27:20</sys_created_on>
+        <sys_id>1ee9934f9f2231107f4438eeb224abff</sys_id>
+        <sys_name>Wish Item</sys_name>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">45e757cb9f2231107f4438eeb224ab83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">45e757cb9f2231107f4438eeb224ab83</sys_scope>
+        <sys_update_name>sys_sg_icon_section_1ee9934f9f2231107f4438eeb224abff</sys_update_name>
+        <table/>
+        <title>Wish Item</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_icon_section>
+</record_update>

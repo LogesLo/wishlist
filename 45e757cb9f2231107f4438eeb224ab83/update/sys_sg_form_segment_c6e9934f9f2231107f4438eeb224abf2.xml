@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">0ae9934f9f2231107f4438eeb224abef</embedded_screen>
+        <form display_value="Wish Item Form Screen">4ee9934f9f2231107f4438eeb224abee</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 14:27:20</sys_created_on>
+        <sys_id>c6e9934f9f2231107f4438eeb224abf2</sys_id>
+        <sys_name/>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">45e757cb9f2231107f4438eeb224ab83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">45e757cb9f2231107f4438eeb224ab83</sys_scope>
+        <sys_update_name>sys_sg_form_segment_c6e9934f9f2231107f4438eeb224abf2</sys_update_name>
+    </sys_sg_form_segment>
+</record_update>

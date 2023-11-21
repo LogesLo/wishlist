@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>requester</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>20</order>
+        <record_id_field/>
+        <screen display_value="Details">0ae9934f9f2231107f4438eeb224abef</screen>
+        <screen_data_item_table>x_snc_wishlist_wish_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 14:27:20</sys_created_on>
+        <sys_id>12e9934f9f2231107f4438eeb224abfc</sys_id>
+        <sys_name>requester</sys_name>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">45e757cb9f2231107f4438eeb224ab83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">45e757cb9f2231107f4438eeb224ab83</sys_scope>
+        <sys_update_name>sys_sg_screen_field_12e9934f9f2231107f4438eeb224abfc</sys_update_name>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>
